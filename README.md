@@ -1,0 +1,5 @@
+- 👋 Olá! Me chamo Vinycius, tenho 22 anos e sou de Curitiba/PR/BR.
+- 👀 Tenho grande interesse na área FullStack, com foco em back-end.
+- 🌱 Atualmente estou aprendendo NodeJS.
+- 💞️ Qualquer oportunidade, não hesite em me chamar para uma conversa!
+- 📫 Deixo aqui meu celular +55 (41) 99812-4004 e meu e-mail vinyosadczuk@hotmail.com
