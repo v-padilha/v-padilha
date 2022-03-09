@@ -41,4 +41,7 @@
 **Obrigado pela visita!**
 <br/>
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif" width="500" height="320" />
+
+<p align="center">
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif" width="500" height="320"/>
+</p>
