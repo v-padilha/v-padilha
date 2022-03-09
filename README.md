@@ -4,6 +4,8 @@
   <img align="left" alt="Vinycius' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/>
+
 - Olá! Me chamo Vinycius, tenho 22 anos e sou de Curitiba/PR/BR.
 - Extremamente feliz em fazer parte do Desenvolve 2022, programa de formação FullStack oferecido pelo Boticário, em parceria com a Alura.
 - Constantemente me especializando, sei que estarei sempre em aprendizado, pois não me canso de aprender.
@@ -22,6 +24,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 
 **Ferramentas que utilizo:**
+
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
@@ -30,4 +33,4 @@
 - Deixo aqui meu celular +55 (41) 99812-4004 e meu e-mail vinyosadczuk@hotmail.com
 
 <p align="center" font-size="20" font-weight="bold">Obrigado pela visita!</p>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif" width="600" height="320" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif" width="500" height="320" />
