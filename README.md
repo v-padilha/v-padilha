@@ -14,6 +14,8 @@
 
 <br/>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="320" />
+
 **Linguagens que tenho focado:**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -32,10 +34,6 @@
 
 - Qualquer oportunidade, não hesite em me chamar para uma conversa!
 - Deixo aqui meu celular +55 (41) 99812-4004 e meu e-mail vinyosadczuk@hotmail.com
-
-<br/>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="320" />
 
 <br/><br/><br/><br/>
 
