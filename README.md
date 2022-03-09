@@ -13,7 +13,6 @@
 - Tenho grande interesse na área FullStack, com foco em back-end.
 
 <br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="320" />
 
