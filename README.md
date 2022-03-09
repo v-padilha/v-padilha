@@ -40,4 +40,5 @@
 
 **Obrigado pela visita!**
 <br/>
-<img align="center" alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif" width="500" height="320" />
+<br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif" width="500" height="320" />
