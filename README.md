@@ -32,5 +32,9 @@
 - Qualquer oportunidade, não hesite em me chamar para uma conversa!
 - Deixo aqui meu celular +55 (41) 99812-4004 e meu e-mail vinyosadczuk@hotmail.com
 
+
+
+
+
 <p align="center" font-size="20" font-weight="bold">Obrigado pela visita!</p>
 <img align="center" alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif" width="500" height="320" />
