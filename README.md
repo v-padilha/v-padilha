@@ -43,5 +43,5 @@
 <br/>
 
 <p align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif"/>
+  <img alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif" width="500" height="320"/>
 </p>
