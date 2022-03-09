@@ -5,6 +5,7 @@
 </a>
 
 <br/>
+<br/>
 
 - Olá! Me chamo Vinycius, tenho 22 anos e sou de Curitiba/PR/BR.
 - Extremamente feliz em fazer parte do Desenvolve 2022, programa de formação FullStack oferecido pelo Boticário, em parceria com a Alura.
@@ -32,6 +33,7 @@
 - Qualquer oportunidade, não hesite em me chamar para uma conversa!
 - Deixo aqui meu celular +55 (41) 99812-4004 e meu e-mail vinyosadczuk@hotmail.com
 
+<br/><br/><br/>
 
 
 
