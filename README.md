@@ -12,10 +12,7 @@
 - Constantemente me especializando, sei que estarei sempre em aprendizado, pois não me canso de aprender.
 - Tenho grande interesse na área FullStack, com foco em back-end.
 
-<br>
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" />
-
 
 **Linguagens que tenho focado:**
 
