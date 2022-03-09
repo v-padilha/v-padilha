@@ -38,5 +38,6 @@
 
 
 
-<p align="center" font-size="20" font-weight="bold">Obrigado pela visita!</p>
+<p align="center">**Obrigado pela visita!**</p>
+<br/>
 <img align="center" alt="GIF" src="https://media.giphy.com/media/79ZFYdMsStRYI/giphy.gif" width="500" height="320" />
