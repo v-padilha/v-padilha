@@ -8,7 +8,7 @@
 <br/>
 
 - Meu nome é Vinycius, tenho 22 anos e sou de Curitiba/PR/BR.
-- Extremamente feliz em fazer parte do Desenvolve 2022, programa de formação FullStack oferecido pelo Boticário, em parceria com a Alura.
+- Extremamente feliz em fazer parte do Desenvolve 2022, programa de formação Full Stack oferecido pelo Boticário, em parceria com a Alura.
 - Constantemente me especializando, sei que estarei sempre em aprendizado, pois não me canso de aprender.
 - Tenho grande interesse na área FullStack, com foco em back-end.
 
