@@ -11,7 +11,7 @@
 - Extremamente feliz em fazer parte do Desenvolve 2022, programa de formação Full Stack oferecido pelo Boticário, em parceria com a Alura.
 - Cursando o 2º período de Análise e Desenvolvimento de Sistemas na PUC-PR.
 - Constantemente me especializando, sei que estarei sempre em aprendizado, pois não me canso de aprender.
-- Tenho grande interesse na área FullStack, com foco em back-end.
+- Tenho grande interesse na área FullStack, por isso sempre alternar o que estudo.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="300" />
 
